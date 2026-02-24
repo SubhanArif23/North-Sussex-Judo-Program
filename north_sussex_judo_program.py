@@ -173,10 +173,11 @@ def home_menu():
             print("Invalid choice")
 
 #user interface
-print("""North Sussex Judo Program""")
-print("""North Sussex Judo Program""")
-print("""North Sussex Judo Program""")
-print("""Logged in as Admin!""")
-print("""Pick an option from below: """)
+print(""""North Sussex Judo Program"""")
+print(""""North Sussex Judo Program"""")
+print(""""North Sussex Judo Program"""")
+print(""""Logged in as Admin!"""")
+print(""""Pick an option from below:"""")
 home_menu() # call the main menu function
+
 
